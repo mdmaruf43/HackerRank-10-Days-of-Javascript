@@ -22,7 +22,7 @@ function vowelsAndConsonants(s) {
     }
     
     // Print consonants
-    for (const e of c) {
+    for (let e of c) {
         console.log(e);
     }
 }
